@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4041646593
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Symbol
+    uniqueID: 1298385755
+    locked: 0
+  - name: SlotMachine
+    uniqueID: 4226289793
+    locked: 0
+  - name: Lever
+    uniqueID: 2982055951
+    locked: 0
